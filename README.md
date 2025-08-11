@@ -4,10 +4,10 @@
 ## チームメンバー
 | GitHub ユーザー名 | Discord ユーザー名 | Discord 表示名 |
 |-------------------|------------------|-----------------|
-| @carbon_hero | @dokunira | アンドゥー |
-| @foorests | @forest3187 | forest3187 |
-| @ugeugeHigh | @xian2451 | Xian DIY (ueda gen) |
-| @YuMaehashi | @yum_42 | Maehashi |
+| [@carbon_hero](https://github.com/dokunira/OPAMP_PTC06-2) | @dokunira | アンドゥー |
+| [@foorests](https://github.com/foorests/opamp_ISHI) | @forest3187 | forest3187 |
+| [@ugeugeHigh](https://github.com/ugeugeHigh/opamp_ishi) | @xian2451 | Xian DIY (ueda gen) |
+| [@YuMaehashi](https://github.com/YuMaehashi/ISHI-KAI/tree/main/PTC06/202508_OPAMP) | @yum_42 | Maehashi |
 
 ## グループワーク
 2025年6月29日から2025年8月10日まで毎週日曜日の21時からミーティングを行い、互いの進捗の確認や疑問点の解消を行いました。
